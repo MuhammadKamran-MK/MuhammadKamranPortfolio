@@ -1,0 +1,13 @@
+This is an online android app having two sides user & admin sides.
+First the user and admin create their accounts then they will need
+to sign in to access the uses of app. When user create account and 
+login successful the map screen will appear to the user where user 
+will see all the near by saloons so the user can place order to any 
+saloon availble near to the user then the user will wait till the 
+admin accept the order of that user. The order placed by user will 
+be shown to admin in a dialog where admin can accept or decline the 
+order of clients. When dialog closed the clients orders screen will 
+appear to admin where two buttons are available with order one is 
+completed and other is payment paid button if admin press the completed 
+button it means order has been delivered successfully and the order 
+will be add to history screen.
